@@ -6,3 +6,5 @@ Tech Stack:
 
 Astro
 Typescript
+
+Vercel
