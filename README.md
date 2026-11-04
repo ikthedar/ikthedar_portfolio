@@ -2,6 +2,8 @@
 
 Personal portfolio and technical writing site for Ikthedar Chowdhury, built with Astro and TypeScript. It showcases full-stack engineering projects, systems architecture, and business operations work.
 
+Development work.
+
 ## Development
 
 Install dependencies:
