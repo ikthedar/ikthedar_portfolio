@@ -1,6 +1,8 @@
 # Portfolio & Technical Blog
 
 Personal portfolio and technical writing site for Ikthedar Chowdhury, built with Astro and TypeScript. It showcases full-stack engineering projects, systems architecture, and business operations work.
+And there is that.
+
 
 Development work.
 Operations and Finance.
